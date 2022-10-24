@@ -17,7 +17,7 @@ This is a solution to the Skilled e-learning landing page challenge on Frontend 
 ### Links
 
 - Solution URL: https://github.com/avtokakhiani/-5-skilled-elearning-landing-page
-- Live Site URL: 
+- Live Site URL: https://github.com/avtokakhiani/-5-skilled-elearning-landing-page.git
 
 
 ### Built with
